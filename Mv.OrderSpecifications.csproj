@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Authors></Authors>
+    <Company></Company>
+    <Product>OrderSpecifications</Product>
+    <Description></Description>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+</Project>
