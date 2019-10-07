@@ -12,3 +12,4 @@ namespace Ikea.Mv.Checkout.OrderSpecifications
         IOrderedEnumerable<T> Invoke(IOrderedEnumerable<T> collection);
     }
 }
+
